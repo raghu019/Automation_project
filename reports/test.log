@@ -1,0 +1,99 @@
+2026-03-28 17:08:27,187 - test_login - INFO - Starting invalid login test
+2026-03-28 17:08:27,465 - test_login - INFO - Actual error message: Your password is invalid!
+2026-03-28 17:08:31,404 - test_login - INFO - Starting invalid login test
+2026-03-28 17:08:31,621 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 17:08:37,326 - test_login - INFO - Starting invalid login test
+2026-03-28 17:08:37,532 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 17:08:41,007 - test_login - INFO - Starting valid login test
+2026-03-28 17:08:45,285 - test_login - INFO - Starting API + UI integration test
+2026-03-28 17:08:47,052 - test_login - INFO - Checking login success for API user
+2026-03-28 17:24:43,552 - test_login - INFO - Starting invalid login test
+2026-03-28 17:24:43,895 - test_login - INFO - Actual error message: Your password is invalid!
+2026-03-28 17:24:47,807 - test_login - INFO - Starting invalid login test
+2026-03-28 17:24:48,019 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 17:24:51,429 - test_login - INFO - Starting invalid login test
+2026-03-28 17:24:51,639 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 17:24:55,323 - test_login - INFO - Starting valid login test
+2026-03-28 17:24:56,555 - test_login - INFO - Checking login success
+2026-03-28 17:25:00,543 - test_login - INFO - Starting API + UI integration test
+2026-03-28 17:25:02,390 - test_login - INFO - Checking login success for API user
+2026-03-28 17:25:43,228 - test_login - INFO - Starting invalid login test
+2026-03-28 17:25:43,528 - test_login - INFO - Actual error message: Your password is invalid!
+2026-03-28 17:25:47,452 - test_login - INFO - Starting invalid login test
+2026-03-28 17:25:47,678 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 17:25:51,398 - test_login - INFO - Starting invalid login test
+2026-03-28 17:25:51,602 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 17:25:55,505 - test_login - INFO - Starting valid login test
+2026-03-28 17:25:55,699 - test_login - INFO - Checking login success
+2026-03-28 17:25:59,672 - test_login - INFO - Starting API + UI integration test
+2026-03-28 17:26:01,524 - test_login - INFO - Checking login success for API user
+2026-03-28 18:00:46,519 - test_login - INFO - Starting invalid login test
+2026-03-28 18:00:46,795 - test_login - INFO - Actual error message: Your password is invalid!
+2026-03-28 18:00:53,629 - test_login - INFO - Starting invalid login test
+2026-03-28 18:00:53,835 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 18:00:58,012 - test_login - INFO - Starting invalid login test
+2026-03-28 18:00:58,220 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 18:01:01,882 - test_login - INFO - Starting valid login test
+2026-03-28 18:01:03,148 - test_login - INFO - Checking login success
+2026-03-28 18:01:07,304 - test_login - INFO - Starting API + UI integration test
+2026-03-28 18:01:09,285 - test_login - INFO - Checking login success for API user
+2026-03-28 18:02:48,131 - test_login - INFO - Starting invalid login test
+2026-03-28 18:02:48,403 - test_login - INFO - Actual error message: Your password is invalid!
+2026-03-28 18:02:52,697 - test_login - INFO - Starting invalid login test
+2026-03-28 18:02:52,930 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 18:02:56,792 - test_login - INFO - Starting invalid login test
+2026-03-28 18:02:57,018 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 18:03:00,475 - test_login - INFO - Starting valid login test
+2026-03-28 18:03:00,680 - test_login - INFO - Checking login success
+2026-03-28 18:03:04,401 - test_login - INFO - Starting API + UI integration test
+2026-03-28 18:03:06,284 - test_login - INFO - Checking login success for API user
+2026-03-28 18:13:30,050 - test_login - INFO - Starting invalid login test
+2026-03-28 18:13:30,362 - test_login - INFO - Actual error message: Your password is invalid!
+2026-03-28 18:13:34,415 - test_login - INFO - Starting invalid login test
+2026-03-28 18:13:34,619 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 18:13:40,637 - test_login - INFO - Starting invalid login test
+2026-03-28 18:13:40,846 - test_login - INFO - Actual error message: Your username is invalid!
+2026-03-28 18:13:46,085 - test_login - INFO - Starting valid login test
+2026-03-28 18:13:46,280 - test_login - INFO - Checking login success
+2026-03-28 18:13:51,024 - test_login - INFO - Starting API + UI integration test
+2026-03-28 18:13:52,923 - test_login - INFO - Checking login success for API user
+2026-03-28 23:54:07,915 - test_login - INFO - Starting invalid login test
+2026-03-28 23:54:08,185 - test_login - INFO - Actual error: Your password is invalid!
+2026-03-28 23:54:11,796 - test_login - INFO - Starting invalid login test
+2026-03-28 23:54:12,002 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-28 23:54:17,403 - test_login - INFO - Starting invalid login test
+2026-03-28 23:54:17,626 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-28 23:54:21,315 - test_login - INFO - Starting invalid login test
+2026-03-28 23:54:56,863 - test_login - INFO - Starting valid login test
+2026-03-28 23:54:57,927 - test_login - INFO - Checking login success
+2026-03-28 23:55:01,545 - test_login - INFO - Starting API + UI integration test
+2026-03-28 23:55:03,526 - test_login - INFO - Checking login success for API user
+2026-03-29 00:04:27,013 - test_login - INFO - Starting invalid login test
+2026-03-29 00:04:27,278 - test_login - INFO - Actual error: Your password is invalid!
+2026-03-29 00:04:32,137 - test_login - INFO - Starting invalid login test
+2026-03-29 00:04:32,337 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:04:36,012 - test_login - INFO - Starting invalid login test
+2026-03-29 00:04:36,221 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:25:19,513 - test_login - INFO - Starting login test
+2026-03-29 00:25:19,750 - test_login - INFO - Validating invalid login
+2026-03-29 00:25:19,771 - test_login - INFO - Actual error: Your password is invalid!
+2026-03-29 00:25:23,349 - test_login - INFO - Starting login test
+2026-03-29 00:25:23,565 - test_login - INFO - Validating invalid login
+2026-03-29 00:25:23,583 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:25:45,024 - test_login - INFO - Starting login test
+2026-03-29 00:25:45,242 - test_login - INFO - Validating invalid login
+2026-03-29 00:25:45,257 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:37:39,119 - test_login - INFO - Starting invalid login test
+2026-03-29 00:37:39,399 - test_login - INFO - Actual error: Your password is invalid!
+2026-03-29 00:37:43,186 - test_login - INFO - Starting invalid login test
+2026-03-29 00:37:43,420 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:37:47,456 - test_login - INFO - Starting invalid login test
+2026-03-29 00:37:47,700 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:37:51,541 - test_login_valid - INFO - Starting valid login test
+2026-03-29 00:46:17,038 - test_login - INFO - Starting invalid login test
+2026-03-29 00:46:17,349 - test_login - INFO - Actual error: Your password is invalid!
+2026-03-29 00:46:21,020 - test_login - INFO - Starting invalid login test
+2026-03-29 00:46:21,226 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:46:25,059 - test_login - INFO - Starting invalid login test
+2026-03-29 00:46:25,296 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 00:46:28,660 - test_login_valid - INFO - Starting valid login test

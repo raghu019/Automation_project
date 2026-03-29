@@ -1,0 +1,24 @@
+# base_url: "https://practicetestautomation.com/practice-test-login/"
+
+# api:
+#   base_url: "https://jsonplaceholder.typicode.com"
+
+# credentials:
+#   username: "student"
+#   password: "Password123"
+
+
+#-----------------------after implementing step 10 Environment Management-----------------------
+env: qa         # env: QA means that we are using the QA environment. We can change this to prod when we want to run tests in the production environment.
+
+qa:
+  base_url: "https://practicetestautomation.com/practice-test-login/"
+  api_base_url: "https://jsonplaceholder.typicode.com"
+
+prod:
+  base_url: "https://real-app.com"
+  api_base_url: "https://api.real-app.com"
+
+credentials:
+  username: "student"
+  password: "Password123"
