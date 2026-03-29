@@ -10,7 +10,7 @@ def test_login_success(page):
 
     login = LoginPage(page)
 
-    login.login("student", "Password123")
+    login.login("student", "Password12")
 
     page.wait_for_load_state("networkidle")
 

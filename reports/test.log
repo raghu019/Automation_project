@@ -107,3 +107,10 @@
 2026-03-29 13:22:44,404 - test_login - INFO - Actual error: Your password is invalid!
 2026-03-29 13:23:06,208 - test_login - INFO - Starting invalid login test
 2026-03-29 13:23:06,424 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 14:34:01,179 - test_login - INFO - Starting invalid login test
+2026-03-29 14:34:01,480 - test_login - INFO - Actual error: Your password is invalid!
+2026-03-29 14:34:05,061 - test_login - INFO - Starting invalid login test
+2026-03-29 14:34:05,281 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 14:34:08,543 - test_login - INFO - Starting invalid login test
+2026-03-29 14:34:08,757 - test_login - INFO - Actual error: Your username is invalid!
+2026-03-29 14:34:12,075 - test_login_valid - INFO - Starting valid login test
